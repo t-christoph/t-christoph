@@ -16,7 +16,7 @@ The objective of this lab was to configure a switch and workstation, verify netw
 
 ## 2. Architecture & Design
 
-![Network Topology](Screenshot 2026-11-03 21034.png)
+![Network Topology](Network Topology Image.png)
 
 *Figure 1. Cisco Packet Tracer topology showing a Catalyst 2960 switch connected to a workstation via Ethernet and console connections for MAC address analysis and device configuration.*
 
