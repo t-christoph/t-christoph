@@ -7,7 +7,7 @@ This site serves as a live record of my technical labs, architectural designs, a
 ## 🔗 Connect With Me
 * **LinkedIn:** [Trisha Christoph](https://www.linkedin.com/in/trisha-christoph)
 * **GitHub:** [t-christoph](https://github.com/t-christoph)
-* **Notion:** {Trisha Christoph](https://boundless-caraway-10e.notion.site/trisha-christoph-cyber-portfolio?source=copy_link)
+* **Notion:** [Trisha Christoph](https://boundless-caraway-10e.notion.site/trisha-christoph-cyber-portfolio?source=copy_link)
 
 ---
 
